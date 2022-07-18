@@ -1,0 +1,169 @@
+body{
+    margin: 0;
+}
+
+header{
+    height: 100px;
+}
+
+.flex{
+    display: flex;
+}
+
+.fd-c{
+    flex-direction: column;
+}
+
+.side-padding{
+    padding-left: 15%;
+    padding-right: 15%;
+}
+
+.jc-sb{
+    justify-content: space-between;
+}
+
+.jc-sa{
+    justify-content: space-around;
+}
+
+.jc-c{
+    justify-content: center;
+}
+
+.ai-c{
+    align-items: center;
+}
+
+.mt-200{
+    margin-top: 200px;
+}
+
+.mt-100{
+    margin-top: 100px;
+}
+
+.mts-15{
+    margin-top: -15px;
+}
+
+.logo{
+    width: 63px;
+    height: 22px;
+}
+
+.header-text{
+    font-size: 17px;
+    font-weight: 600;
+    font-family: 'Inter', sans-serif;
+    color: #979391;
+}
+
+.header-text:hover{
+    color: black;
+}
+
+.cf{
+    color: #D9D9D9;
+    font-weight: 500;
+}
+
+.block-img1{
+    width: 52px;
+    height: 52px;
+    border: 1px solid #ECECEC;
+}
+
+.block-img2{
+    width: 52px;
+    height: 52px;
+    border: 1px solid transparent;
+    
+}
+
+.bg-icon{
+    position: absolute;
+}
+
+.small-icon{
+    position: relative;
+}
+
+h1{
+    font-size: 40px;
+    font-weight: 600;
+    font-family: 'PT Serif', serif;
+}
+
+.text-h1{
+    font-size: 20px;
+    font-weight: 400;
+    font-family: 'Inter', sans-serif;
+}
+
+.mini-box{
+    width: 45px;
+    height: 45px;
+    border: 1px solid #D9D9D9;
+}
+
+.card{
+    width: 400px;
+    height: 545px;
+}
+
+.ava{
+    width: 400px;
+    height: 400px;
+}
+
+h2{
+    font-size: 20px;
+    font-weight: 700;
+    font-family: 'PT Serif', serif;
+}
+
+.price{
+    font-size: 23px;
+    font-weight: 600;
+    font-family: 'Inter', sans-serif;
+}
+
+.price-img{
+    width: 15px;
+    height: 25px;
+    margin-left: 10px;
+}
+
+.Binsky{
+    font-size: 20px;
+    font-weight: 700;
+    font-family: 'PT Serif', serif;
+    color: #637883;
+}
+
+.by{
+    font-weight: 400;
+    color: #979391;
+}
+
+.last{
+    font-size: 17px;
+    font-weight: 400;
+    font-family: 'Inter', sans-serif;
+    color: #788d98;
+}
+
+button{
+    width: 316px;
+    height: 80px;
+    border: 1px solid #dedede;
+    background-color: white;
+    font-size: 20px;
+    font-weight: 500;
+    font-family: 'Inter', sans-serif;
+}
+
+main{
+    height: 1500px;
+}
